@@ -74,3 +74,6 @@ DEFINE
 * **Operations Team**: Optimizes driver routing and volunteer scheduling based on category volume peaks.
 * **Donor Relations**: Identifies high-value donor partners and addresses donor retention risks.
 * **Community Leadership**: Quantifies environmental impact and regional hunger relief metrics.
+
+<img width="1327" height="742" alt="image" src="https://github.com/user-attachments/assets/5082c687-bebb-49a5-b06e-319eba7fd4de" />
+
